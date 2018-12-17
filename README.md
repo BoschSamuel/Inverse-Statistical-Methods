@@ -1,4 +1,4 @@
-# Inverse statistical methods
+## Inverse Statistical Methods
 
 Inverse problems in statistical physics are motivated by the challenges of “big data” in different fields, in particular experiments in biology. In inverse problems, the usual procedure of statistical physics needs to be reversed: Instead of calculating the observables over time on the basis of model parameters, we seek to infer parameters of a model based on observations.
 
