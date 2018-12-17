@@ -18,14 +18,7 @@ For making initial plots of a simulations, just run "Results.ipynb"
 # Project description
 Mentors: prof. Paolo De Los Rios Dr. Stefano Zamuner
 
-
 Inverse statistical methods and pseudolikelihood approximation
-
-
-Inverse problems in statistical physics are motivated by the challenges of “big data” in different fields, in particular experiments in biology. In inverse problems, the usual procedure of statistical physics needs to be reversed: Instead of calculating the observables over time on the basis of model parameters, we seek to infer parameters of a model based on observations.
-
-In this project, I will focus on the inverse of the Potts model. The Potts model, a generalization of the Ising model, is a model of interacting spins. The reason of this is theoretical (maximum entropy) and practical: it is the simplest model that can explain two-point statistics in data. Also, it is widely used in the community. For example, the reconstruction of neural and gene regulatory networks, and the determination of the 3D structure of proteins [1].
-
 
 What is the aim of the project?
 
