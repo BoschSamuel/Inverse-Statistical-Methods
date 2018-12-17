@@ -1,4 +1,4 @@
-# Inverse statistical methods and pseudolikelihoodapproximation
+# Inverse statistical methods - project description
 Samuel Bosch
 
 Mentors: prof. Paolo De Los Rios Dr. Stefano Zamuner
@@ -44,9 +44,13 @@ References:
 	[4] De Juan, David, Florencio Pazos, and Alfonso Valencia. "Emerging methods in protein co-evolution." Nature Reviews Genetics 14.4 (2013): nrg3414.
 
 
-Here are the codes used in my project. 
-The main simulation is "main_simulation.cpp".
+
+# Running the code
+The main simulation is "main_simulation.cpp"
 You can compile it with "g++ -std=c++11 main_simulation.cpp" and run it with "./a.out"
-It creates several output files, which can later be used for analysis.
+
+It creates several output files (C.txt, Autocorrelation.txt and Energy_vs_time.txt), which can later be used for analysis.
+
 For checking the accuracy of the main simulation, you can run "Analysis.ipynb" and get the correlation coefficient.
-# Inverse-Statistical-Methods
+
+For making initial plots of a simulations, just run "Results.ipynb"
