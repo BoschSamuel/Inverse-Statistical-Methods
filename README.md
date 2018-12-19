@@ -1,16 +1,24 @@
-# Inverse statistical methods and pseudolikelihoodapproximation
-Samuel Bosch
-
-Mentors: prof. Paolo De Los Rios Dr. Stefano Zamuner
-
-
-Inverse statistical methods and pseudolikelihood approximation
-
+## Inverse Statistical Methods
 
 Inverse problems in statistical physics are motivated by the challenges of “big data” in different fields, in particular experiments in biology. In inverse problems, the usual procedure of statistical physics needs to be reversed: Instead of calculating the observables over time on the basis of model parameters, we seek to infer parameters of a model based on observations.
 
 In this project, I will focus on the inverse of the Potts model. The Potts model, a generalization of the Ising model, is a model of interacting spins. The reason of this is theoretical (maximum entropy) and practical: it is the simplest model that can explain two-point statistics in data. Also, it is widely used in the community. For example, the reconstruction of neural and gene regulatory networks, and the determination of the 3D structure of proteins [1].
 
+# Running the code
+The main simulation is "main_simulation.cpp"
+You can compile it with "g++ -std=c++11 main_simulation.cpp" and run it with "./a.out"
+
+It creates several output files (C.txt, Autocorrelation.txt and Energy_vs_time.txt), which can later be used for analysis.
+
+For checking the accuracy of the main simulation, you can run "Analysis.ipynb" and get the correlation coefficient.
+
+For making initial plots of a simulations, just run "Results.ipynb"
+
+
+# Project description
+Mentors: prof. Paolo De Los Rios Dr. Stefano Zamuner
+
+Inverse statistical methods and pseudolikelihood approximation
 
 What is the aim of the project?
 
@@ -43,10 +51,3 @@ References:
 	[3] Dill, Ken A., and Justin L. MacCallum. "The protein-folding problem, 50 years on." science 338.6110 (2012): 1042-1046.
 	[4] De Juan, David, Florencio Pazos, and Alfonso Valencia. "Emerging methods in protein co-evolution." Nature Reviews Genetics 14.4 (2013): nrg3414.
 
-
-Here are the codes used in my project. 
-The main simulation is "main_simulation.cpp".
-You can compile it with "g++ -std=c++11 main_simulation.cpp" and run it with "./a.out"
-It creates several output files, which can later be used for analysis.
-For checking the accuracy of the main simulation, you can run "Analysis.ipynb" and get the correlation coefficient.
-# Inverse-Statistical-Methods
