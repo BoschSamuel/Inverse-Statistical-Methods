@@ -46,8 +46,11 @@ Tremendous efforts have been made to determine the three-dimensional structure o
 
 References:
 	[1] Ernst Ising. Beitrag zur theorie des ferromagnetismus. Zeitschrift für Physik, 31(1):253–258, 1925.
+	
 	[2] Renfrey Burnard Potts. The mathematical investigation of some cooperative phenomena, 1951.
+	
 	[3] M Newman and G Barkema. Monte carlo methods in statistical physics chapter 1-4. Oxford University Press: New York, USA, 1999.
+	
 	[4] Faruck Morcos, Andrea Pagnani, Bryan Lunt, Arianna Bertolino, Debora S Marks, Chris Sander, Riccardo Zecchina, José N Onuchic, Terence Hwa, and Martin Weigt. Direct-coupling analysis of residue coevolution captures native contacts across many protein families. Proceedings of the National Academy of Sciences, 108(49):E1293–E1301, 2011.
 	[5] Edwin T Jaynes. Information theory and statistical mechanics. Physical review, 106(4):620, 1957.
 	[6] Edwin T Jaynes. Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1957.
