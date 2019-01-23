@@ -45,9 +45,15 @@ Further details:
 Tremendous efforts have been made to determine the three-dimensional structure of proteins. A linear amino acid chain folds into a convoluted shape [3,4], the folded protein, thus bringing amino acids into close physical proximity that are separated by a long distance along the linear sequence. The three-dimensional structure of a protein determines its physical and chemical properties, and how it interacts with other cellular components: broadly, the shape of a protein determines many aspects of its function. Protein structure determination relies on crystallizing proteins and analyzing the X-ray diffraction pattern of the resulting solid. Given the experimental effort required, the determination of a protein’s structure from its sequence alone has also been key challenge to computational biology for several decades. The computational approach models the forces between amino acids in order to find the low-energy structure a protein in solution will fold into. Depending on the level of detail, this approach requires extensive computational resources.
 
 References:
-
-	[1] Nguyen, H. Chau, Riccardo Zecchina, and Johannes Berg. "Inverse statistical problems: from the inverse Ising problem to data science." Advances in Physics 66.3 (2017): 197-261.
-	[2] Ekeberg, Magnus, Tuomo Hartonen, and Erik Aurell. "Fast pseudolikelihood maximization for direct-coupling analysis of protein structure from many homologous amino-acid sequences." Journal of Computational Physics 276 (2014): 341- 356.
-	[3] Dill, Ken A., and Justin L. MacCallum. "The protein-folding problem, 50 years on." science 338.6110 (2012): 1042-1046.
-	[4] De Juan, David, Florencio Pazos, and Alfonso Valencia. "Emerging methods in protein co-evolution." Nature Reviews Genetics 14.4 (2013): nrg3414.
-
+	[1] Ernst Ising. Beitrag zur theorie des ferromagnetismus. Zeitschrift für Physik, 31(1):253–258, 1925.
+	[2] Renfrey Burnard Potts. The mathematical investigation of some cooperative phenomena, 1951.
+	[3] M Newman and G Barkema. Monte carlo methods in statistical physics chapter 1-4. Oxford University Press: New York, USA, 1999.
+	[4] Faruck Morcos, Andrea Pagnani, Bryan Lunt, Arianna Bertolino, Debora S Marks, Chris Sander, Riccardo Zecchina, José N Onuchic, Terence Hwa, and Martin Weigt. Direct-coupling analysis of residue coevolution captures native contacts across many protein families. Proceedings of the National Academy of Sciences, 108(49):E1293–E1301, 2011.
+	[5] Edwin T Jaynes. Information theory and statistical mechanics. Physical review, 106(4):620, 1957.
+	[6] Edwin T Jaynes. Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1957.
+	[7] T Plefka. Convergence condition of the tap equation for the infinite-ranged ising spin glass model. Journal of Physics A: Mathematical and general, 15(6):1971, 1982.
+	[8] Antoine Georges and Jonathan S Yedidia. How to expand around mean-field theory using high-temperature expansions. Journal of Physics A: Mathematical and General, 24(9):2173, 1991.
+	[9] Francis Galton. Regression towards mediocrity in hereditary stature. The Journal of the Anthropological Institute of Great Britain and Ireland, 15:246–263, 1886.
+	[10] Karl Pearson. Notes on regression and inheritance in the case of two parents proceedings of the royal society of london, 58, 240-242, 1895.
+	[11] Sarah Boslaugh. Statistics in a nutshell: A desktop quick reference. " O’Reilly Media, Inc.", 2012.
+	[12] J. Taylor. Introduction to Error Analysis, the Study of Uncertainties in Physical Measurements, 2nd Edition. University Science Books, 1997.
