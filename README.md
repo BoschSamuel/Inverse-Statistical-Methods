@@ -45,12 +45,10 @@ Further details:
 Tremendous efforts have been made to determine the three-dimensional structure of proteins. A linear amino acid chain folds into a convoluted shape [3,4], the folded protein, thus bringing amino acids into close physical proximity that are separated by a long distance along the linear sequence. The three-dimensional structure of a protein determines its physical and chemical properties, and how it interacts with other cellular components: broadly, the shape of a protein determines many aspects of its function. Protein structure determination relies on crystallizing proteins and analyzing the X-ray diffraction pattern of the resulting solid. Given the experimental effort required, the determination of a protein’s structure from its sequence alone has also been key challenge to computational biology for several decades. The computational approach models the forces between amino acids in order to find the low-energy structure a protein in solution will fold into. Depending on the level of detail, this approach requires extensive computational resources.
 
 References:
+
 	[1] Ernst Ising. Beitrag zur theorie des ferromagnetismus. Zeitschrift für Physik, 31(1):253–258, 1925.
-	
 	[2] Renfrey Burnard Potts. The mathematical investigation of some cooperative phenomena, 1951.
-	
 	[3] M Newman and G Barkema. Monte carlo methods in statistical physics chapter 1-4. Oxford University Press: New York, USA, 1999.
-	
 	[4] Faruck Morcos, Andrea Pagnani, Bryan Lunt, Arianna Bertolino, Debora S Marks, Chris Sander, Riccardo Zecchina, José N Onuchic, Terence Hwa, and Martin Weigt. Direct-coupling analysis of residue coevolution captures native contacts across many protein families. Proceedings of the National Academy of Sciences, 108(49):E1293–E1301, 2011.
 	[5] Edwin T Jaynes. Information theory and statistical mechanics. Physical review, 106(4):620, 1957.
 	[6] Edwin T Jaynes. Information theory and statistical mechanics. ii. Physical review, 108(2):171, 1957.
